@@ -1,6 +1,4 @@
-# FOR YOU — BeautifulSoup & Web Scraping Notes
-
-> *"The web is the world's largest database. BeautifulSoup is your shovel."*
+# BeautifulSoup & Web Scraping Notes
 
 A deep dive into **BeautifulSoup 4**, web scraping fundamentals, parser behavior, navigation strategies, extraction techniques, and the engineering mindset behind reliable scrapers.
 
