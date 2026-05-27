@@ -79,19 +79,25 @@ Before scraping a website:
 ```bash
 .
 
+.
 ├── README.md
 ├── examples
 │   ├── alice.html
 │   ├── scraper_navigate.py
 │   └── scraper_object.py
 ├── projects
-│   └── job_market_analyzer
-│       ├── README.md
-│       ├── data
-│       ├── main.py
-│       ├── notebooks
-│       ├── requirements.txt
-│       └── scraper
+│   ├── job_market_analyzer
+│   │   ├── README.md
+│   │   ├── data
+│   │   ├── main.py
+│   │   ├── notebooks
+│   │   ├── requirements.txt
+│   │   └── scraper
+│   └── kenya_news_scraper
+│       ├── claener.py
+│       ├── headlines.csv
+│       ├── requirememnts.txt
+│       └── scraper.py
 └── requirements.txt
 
 ```
