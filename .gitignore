@@ -1,0 +1,19 @@
+# Python Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local Data and Scraped Outputs
+*.csv
+*.json
+*.log
+data/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables / Secrets
+.env
+
