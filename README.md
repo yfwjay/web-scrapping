@@ -1,4 +1,4 @@
-BeautifulSoup & Web Scraping Notes
+## BeautifulSoup & Web Scraping Notes
 
 A deep dive into **BeautifulSoup 4**, web scraping fundamentals, parser behavior, navigation strategies, extraction techniques, and the engineering mindset behind reliable scrapers.
 
