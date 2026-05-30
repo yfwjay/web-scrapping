@@ -4,7 +4,7 @@ charset-normalizer==3.4.7
 html5lib==1.1
 idna==3.16
 lxml==6.1.1
-numpy==2.4.6
+numpy
 pandas==3.0.3
 python-dateutil==2.9.0.post0
 requests==2.34.2
